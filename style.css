@@ -100,12 +100,12 @@ CSS STRUCTURE:
 }
 /* Theme Colors */
 :root {
-    --accent-color       : #44E5AE;
-    --dark-color         : #151515;
+    --accent-color       : #FFC72B;
+    --dark-color         : #1B1C22;
     --light-color        : #f2f2f2;
-    --dim-light-color    : #9d9d9d;
-    --primary-color      : #44E5AE;
-    --secondary-color    : #74CFCA;
+    --dim-light-color    : #cccccc;
+    --primary-color      : #FFC72B;
+    --secondary-color    : #FFC72B;
 }
 
 /* Fonts */
